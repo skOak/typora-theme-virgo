@@ -174,7 +174,7 @@ html {
 
 body {
   color: #343a40;
-  font-family: jostFont, jinkaiFont, "kaiti", -apple-system, blinkmacsystemfont, "Segoe UI", roboto, "Helvetica Neue", arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-family: "LXGW WenKai Mono", jostFont, jinkaiFont, "kaiti", -apple-system, blinkmacsystemfont, "Segoe UI", roboto, "Helvetica Neue", arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 16px;
   line-height: 1.5;
 }
@@ -208,7 +208,7 @@ h3 code,
 h4 code,
 h5 code,
 h6 code {
-  font-family: romanFont, jinkaiFont, "kaiti", sfmono-regular, menlo, monaco, consolas, "Liberation Mono", "Courier New", monospace;
+  font-family: "LXGW WenKai Mono", romanFont, jinkaiFont, "kaiti", sfmono-regular, menlo, monaco, consolas, "Liberation Mono", "Courier New", monospace;
 }
 
 h1 {
@@ -314,13 +314,13 @@ p code,
 td code,
 li code {
   font-size: 14px;
-  font-family: romanFont, jinkaiFont, "kaiti", sfmono-regular, menlo, monaco, consolas, "Liberation Mono", "Courier New", monospace;
+  font-family: "LXGW WenKai Mono", romanFont, jinkaiFont, "kaiti", sfmono-regular, menlo, monaco, consolas, "Liberation Mono", "Courier New", monospace;
   color: #d63384;
 }
 
 pre,
 pre code {
-  font-family: romanFont, jinkaiFont, "kaiti", sfmono-regular, menlo, monaco, consolas, "Liberation Mono", "Courier New", monospace;
+  font-family: "LXGW WenKai Mono", romanFont, jinkaiFont, "kaiti", sfmono-regular, menlo, monaco, consolas, "Liberation Mono", "Courier New", monospace;
 }
 
 ul,
@@ -874,7 +874,7 @@ body.active-animate .container-page .toc .page-operation {
 }
 #content .container-nav .content-nav .nav ul li a {
   box-sizing: border-box;
-  font-family: jostFont, jinkaiFont, "kaiti", -apple-system, blinkmacsystemfont, "Segoe UI", roboto, "Helvetica Neue", arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-family: "LXGW WenKai Mono", jostFont, jinkaiFont, "kaiti", -apple-system, blinkmacsystemfont, "Segoe UI", roboto, "Helvetica Neue", arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 16px;
   transition: 0.3s padding linear;
   display: inline-block;
@@ -942,7 +942,7 @@ body.active-animate .container-page .toc .page-operation {
   border-bottom: 1px solid #5dade2;
   padding-bottom: 8px;
   padding-left: 32px;
-  font-family: jostFont, jinkaiFont, "kaiti", -apple-system, blinkmacsystemfont, "Segoe UI", roboto, "Helvetica Neue", arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-family: "LXGW WenKai Mono", jostFont, jinkaiFont, "kaiti", -apple-system, blinkmacsystemfont, "Segoe UI", roboto, "Helvetica Neue", arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   width: 500px;
   background: rgba(255, 255, 255, 0);
 }
